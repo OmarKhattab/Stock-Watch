@@ -1,0 +1,22 @@
+.heading {
+    padding: 14px;
+    color: #b2b2b2;
+    box-sizing: border-box;
+    font-weight: 400;
+    z-index: 1005;
+    margin-left: 0;
+    height: 44px;
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+  }
+.Tools {
+    width: 100%;
+    white-space: nowrap;
+    display: inline-block;
+}
+
+.But{
+  padding : 100px;
+
+}

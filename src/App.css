@@ -1,0 +1,18 @@
+.App {
+
+
+}
+
+.symbolcolor {
+  color: #49fb35;
+  font-weight: 400;
+}
+
+.notASymbol {
+  color:red;
+}
+
+.SymbolStyle {
+ color: "#e5e5e5";
+ font-size:1em;
+};
