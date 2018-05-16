@@ -12,7 +12,7 @@ RobinHood API.
 
 ## Built With
 
-* [react](https://reactjs.org/)
+* [React](https://reactjs.org/)
 * [Unofficial Documentation of Robinhood Trade's Private API](https://github.com/sanko/Robinhood)
 
 ## Author
